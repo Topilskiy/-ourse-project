@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SystAnalys_lr1.aboutForm">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>aboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.nodes">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAQAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Vertex">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>CodeFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Edge">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAgAAAQAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>CodeFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.DrawGraph">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAACAAAAAAAIAAAAgABGIIAQBCAAAQAAAAAAAASg=</HashCode>
+      <FileName>CodeFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Dialog">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Dialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Form1">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgYAAAQEBSAYGFIABAiBcgASAAA4BADAGHAgWgAQAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Program">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Properties.Resources">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAAAAEAgQABEQAAAQAAAAAAAAQAAAQAEKA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.Properties.Settings">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystAnalys_lr1.graphs">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ATEAAAAAAQCAAAAAAAAAAAAAAAAAAADAAAQAAAAAIAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
